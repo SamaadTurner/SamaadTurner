@@ -7,9 +7,9 @@ Full-Stack Developer
 A Computer Science Graduate with bootcamp experience that has a passion for Front-end and Back-end application creation.
 
 * 🌍  I'm based in Seattle, Washington
-* ✉️  You can contact me at [Email](mailto:Email)
-* 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on anything related to AI
+* ✉️  You can contact me here: [Email](mailto:Email)
+* 🧠  I'm currently prepping for Entry-Level Software Engineering Roles
+* 🤝  I'm open to collaborating on anything
 
 ### Skills
 
