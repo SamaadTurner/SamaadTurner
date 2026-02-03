@@ -8,7 +8,7 @@ A Computer Science Graduate with bootcamp experience that has a passion for Fron
 
 * 🌍  Based in Seattle, Washington
 * ✉️   Contact me here: [Email](mailto:Email)
-* 🧠  Currently prepping for Entry-Level Software Engineering Roles
+* 🧠  Currently a Junior Level Application Dev 
 
 ### Skills
 
