@@ -23,13 +23,3 @@ A Computer Science Graduate with bootcamp experience that has a passion for Fron
 
 
 
-<a href="https://github.com/SamaadTurner" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaadTurner&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/SamaadTurner/Alahnna-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamaadTurner&repo=Alahnna-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SamaadTurner/2DSurvivorGame" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamaadTurner&repo=2DSurvivorGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/SamaadTurner/storefront" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamaadTurner&repo=storefront&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SamaadTurner/city-explorer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamaadTurner&repo=city-explorer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
